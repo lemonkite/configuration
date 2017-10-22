@@ -1,0 +1,27 @@
+{
+  "controls": {
+    "native": {
+      "maximum": 3,
+      "interval": 4,
+      "startAt": 0,
+      "enabled": "YES"
+    },
+    "interstitial": {
+      "maximumCount": 20,
+      "enabled": "YES"
+    },
+    "banner": {
+      "enabled": "YES"
+    }
+  },
+  "monetize": {
+    "admob": {
+      "priority": 0,
+      "adUnitID": {
+        "interstitial": "",
+        "native": "",
+        "banner": ""
+      }
+    }
+  }
+}
