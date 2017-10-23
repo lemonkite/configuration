@@ -1,9 +1,16 @@
 {
   "controls": {
     "native": {
-      "maximum": 3,
-      "interval": 4,
-      "startAt": 0,
+      "less":{
+        "startAt": 0,
+        "interval": 4,
+        "maximum": 3        
+      },
+      "massive":{
+        "startAt": 4,
+        "interval": 10,
+        "maximum": 5 
+      },
       "enabled": "YES"
     },
     "interstitial": {
