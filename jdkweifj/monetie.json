@@ -1,5 +1,15 @@
 {
   "controls": {
+    "banner": {
+      "enabled": "YES"
+    },
+    "interstitial": {
+      "maximumCount": 20,
+      "timeInterval": 30.0,
+      "chapter": 2,
+      "type": "time",
+      "enabled": "YES"
+    },
     "native": {
       "less":{
         "startAt": 2,
@@ -11,13 +21,6 @@
         "interval": 10,
         "maximum": 5 
       },
-      "enabled": "YES"
-    },
-    "interstitial": {
-      "maximumCount": 20,
-      "enabled": "YES"
-    },
-    "banner": {
       "enabled": "YES"
     }
   },
