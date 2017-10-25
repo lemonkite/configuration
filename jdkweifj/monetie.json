@@ -2,7 +2,7 @@
   "controls": {
     "native": {
       "less":{
-        "startAt": 0,
+        "startAt": 2,
         "interval": 4,
         "maximum": 3        
       },
@@ -22,8 +22,9 @@
     }
   },
   "monetize": {
-    "admob": {
+    "Admob": {
       "priority": 0,
+      "enabled": "YES",
       "adUnitID": {
         "interstitial": "",
         "native": "",
