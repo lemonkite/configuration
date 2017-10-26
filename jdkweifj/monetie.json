@@ -4,9 +4,9 @@
       "enabled": "YES"
     },
     "interstitial": {
-      "maximumCount": 20,
+      "maximumCount": 40,
       "timeInterval": 30.0,
-      "chapter": 2,
+      "chapter": 4,
       "type": "time",
       "enabled": "YES"
     },
