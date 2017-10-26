@@ -4,13 +4,14 @@
       "enabled": "YES"
     },
     "interstitial": {
+      "enabled": "YES",
+      "type": "COUNT",      
       "maximumCount": 10,
       "timeInterval": 30.0,
-      "maximumChapter": 4,
-      "type": "COUNT",
-      "enabled": "YES"
+      "maximumChapter": 4
     },
     "native": {
+      "enabled": "YES",
       "less":{
         "startAt": 2,
         "interval": 4,
@@ -20,8 +21,7 @@
         "startAt": 4,
         "interval": 10,
         "maximum": 5 
-      },
-      "enabled": "YES"
+      }
     }
   },
   "monetize": {
