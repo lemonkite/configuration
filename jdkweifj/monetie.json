@@ -6,7 +6,7 @@
     "interstitial": {
       "maximumCount": 40,
       "timeInterval": 30.0,
-      "chapter": 4,
+      "maximumChapter": 4,
       "type": "time",
       "enabled": "YES"
     },
