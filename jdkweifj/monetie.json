@@ -7,7 +7,7 @@
       "maximumCount": 40,
       "timeInterval": 30.0,
       "maximumChapter": 4,
-      "type": "time",
+      "type": "Chapter",
       "enabled": "YES"
     },
     "native": {
