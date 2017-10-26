@@ -1,22 +1,33 @@
 {
   "controls": {
-    "native": {
-      "maximum": 3,
-      "interval": 4,
-      "startAt": 0,
+    "banner": {
       "enabled": "YES"
     },
     "interstitial": {
-      "maximumCount": 20,
-      "enabled": "YES"
+      "enabled": "YES",
+      "type": "time",      
+      "maximumCount": 10,
+      "timeInterval": 30.0,
+      "maximumChapter": 4
     },
-    "banner": {
-      "enabled": "YES"
+    "native": {
+      "enabled": "YES",
+      "less":{
+        "startAt": 2,
+        "interval": 4,
+        "maximum": 3        
+      },
+      "massive":{
+        "startAt": 4,
+        "interval": 10,
+        "maximum": 5 
+      }
     }
   },
   "monetize": {
-    "admob": {
+    "Admob": {
       "priority": 0,
+      "enabled": "YES",
       "adUnitID": {
         "interstitial": "",
         "native": "",
