@@ -6,12 +6,12 @@
     "interstitial": {
       "enabled": "YES",
       "type": "time",      
-      "maximumCount": 10,
-      "timeInterval": 31.0,
-      "maximumChapter": 4
+      "maximumCount": 200,
+      "timeInterval": 900.0,
+      "maximumChapter": 10
     },
     "native": {
-      "enabled": "YES",
+      "enabled": "NO",
       "less":{
         "startAt": 2,
         "interval": 4,
