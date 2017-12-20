@@ -30,7 +30,7 @@
   },
   "monetize": {
     "Admob": {
-      "priority": 0,
+      "priority": 100,
       "enabled": "YES",
       "adUnitID": {
         "interstitial": "",
@@ -39,7 +39,7 @@
       }
     },
     "InMobi":{
-      "priority": 1,
+      "priority": 99,
       "enabled": "YES",
       "adUnitID": {
         "interstitial": "",
