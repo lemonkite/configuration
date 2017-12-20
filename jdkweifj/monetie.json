@@ -25,7 +25,7 @@
     },
     "splash":{
       "enabled": "YES",
-      "time": 3.0
+      "time": 30.0
     }
   },
   "monetize": {
