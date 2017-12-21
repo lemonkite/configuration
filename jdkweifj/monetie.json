@@ -25,7 +25,23 @@
     },
     "splash":{
       "enabled": "YES",
-      "time": 30.0
+      "time": 3.0
+    },
+    "streamInList":{
+      "enabled": "YES",
+      "less":{
+        "startAt": 2,
+        "interval": 4,
+        "maximum": 3        
+      },
+      "massive":{
+        "startAt": 4,
+        "interval": 10,
+        "maximum": 5 
+      }
+    },
+    "streamInPage":{
+      "enabled": "YES"
     }
   },
   "monetize": {
