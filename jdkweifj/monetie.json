@@ -7,7 +7,7 @@
       "enabled": "YES",
       "type": "time",      
       "maximumCount": 200,
-      "timeInterval": 1500.0,
+      "timeInterval": 2100.0,
       "newUserTimeInterval":300.0,
       "regularUserTimeInterval":300.0,
       "maximumChapter": 10
