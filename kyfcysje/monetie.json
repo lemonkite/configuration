@@ -1,0 +1,70 @@
+{
+  "controls": {
+    "banner": {
+      "enabled": "YES"
+    },
+    "interstitial": {
+      "enabled": "YES",
+      "type": "time",      
+      "maximumCount": 200,
+      "timeInterval": 2100.0,
+      "newUserTimeInterval":1500.0,
+      "regularUserTimeInterval":1500.0,
+      "maximumChapter": 10
+    },
+    "native": {
+      "enabled": "NO",
+      "less":{
+        "startAt": 2,
+        "interval": 4,
+        "maximum": 3        
+      },
+      "massive":{
+        "startAt": 4,
+        "interval": 10,
+        "maximum": 5 
+      }
+    },
+    "splash":{
+      "enabled": "NO",
+      "time": 2.0
+    },
+    "streamInList":{
+      "enabled": "NO",
+      "less":{
+        "startAt": 2,
+        "interval": 4,
+        "maximum": 3        
+      },
+      "massive":{
+        "startAt": 4,
+        "interval": 10,
+        "maximum": 5 
+      }
+    },
+    "streamInPage":{
+      "enabled": "NO"
+    }
+  },
+  "monetize": {
+    "Admob": {
+      "priority": 100,
+      "enabled": "YES",
+      "adUnitID": {
+        "interstitial": "",
+        "native": "",
+        "banner": ""
+      }
+    },
+    "InMobi":{
+      "priority": 99,
+      "enabled": "YES",
+      "adUnitID": {
+        "interstitial": "",
+        "native": "",
+        "banner": "",
+        "splash": ""
+      }
+    }
+  }
+}
