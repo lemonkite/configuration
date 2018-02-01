@@ -4,7 +4,7 @@
             "className":"HenfafaService",
             "priority":1000,
             "enabled": "YES",
-            "Online":{
+            "Online"？:{
                 "apiBaseUrl":"",
                 "apiVersion":"",
                 "needsSign":"YES"
