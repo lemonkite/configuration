@@ -6,12 +6,12 @@
             "priority":1000,
             "enabled": "YES",
             "Online":{
-                "apiBaseUrl":"",
+                "apiBaseUrl":"p.abc.com",
                 "apiVersion":"",
                 "needsSign":"YES"
             },
             "Offline":{
-                "apiBaseUrl":"",
+                "apiBaseUrl":"d.abc.com",
                 "apiVersion":"",
                 "needsSign":"NO"
             }
