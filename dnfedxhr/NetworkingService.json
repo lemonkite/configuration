@@ -1,0 +1,20 @@
+{
+    "valid":"NO",
+    "Services":[
+        {
+            "className":"HenfafaService",
+            "priority":1000,
+            "enabled": "YES",
+            "Online":{
+                "apiBaseUrl":"",
+                "apiVersion":"",
+                "needsSign":"YES"
+            },
+            "Offline":{
+                "apiBaseUrl":"",
+                "apiVersion":"",
+                "needsSign":"NO"
+            }
+        }
+    ]
+}
