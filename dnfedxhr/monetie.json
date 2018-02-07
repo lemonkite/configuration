@@ -7,9 +7,9 @@
       "enabled": "YES",
       "type": "time",      
       "maximumCount": 200,
-      "timeInterval": 120.0,
-      "newUserTimeInterval":30.0,
-      "regularUserTimeInterval":30.0,
+      "timeInterval": 1500.0,
+      "newUserTimeInterval":300.0,
+      "regularUserTimeInterval":300.0,
       "maximumChapter": 10
     },
     "native": {
