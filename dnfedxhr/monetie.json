@@ -8,8 +8,8 @@
       "type": "time",      
       "maximumCount": 200,
       "timeInterval": 1500.0,
-      "newUserTimeInterval":300.0,
-      "regularUserTimeInterval":300.0,
+      "newUserTimeInterval":30.0,
+      "regularUserTimeInterval":30.0,
       "maximumChapter": 10
     },
     "native": {
@@ -27,7 +27,7 @@
     },
     "splash":{
       "enabled": "YES",
-      "time": 12.0
+      "time": 2.0
     },
     "streamInList":{
       "enabled": "YES",
