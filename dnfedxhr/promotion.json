@@ -1,0 +1,31 @@
+{
+    "valid":"YES",
+    "dateStart":"",
+    "dateEnd":"",
+    "apps":[
+        {
+            "trackId":"333206289",
+            "intro":"群聊群付更方便",
+            "valid":"YES",
+            "priority":1000
+        },
+        {
+            "trackId":"1142110895",
+            "intro":"看视频，领红包",
+            "valid":"YES",
+            "priority":1000
+        },
+        {
+            "trackId":"387682726",
+            "intro":"春节期间发10亿",
+            "valid":"YES",
+            "priority":1000
+        },
+        {
+            "trackId":"458318329",
+            "intro":"乡村爱情十独播、十大春晚首播",
+            "valid":"YES",
+            "priority":1000
+        }
+    ]
+}
