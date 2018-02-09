@@ -1,0 +1,13 @@
+{
+    "valid":"YES",
+    "dateStart":"",
+    "dateEnd":"",
+    "apps":[
+        {
+            "trackId":"1333144801",
+            "intro":"百万图书永久免费,自动换源,书源永不失效!",
+            "valid":"YES",
+            "priority":1000
+        }
+    ]
+}
