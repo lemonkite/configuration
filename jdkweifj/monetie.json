@@ -26,8 +26,8 @@
       }
     },
     "splash":{
-      "enabled": "YES",
-      "time": 3.0
+      "enabled": "NO",
+      "time": 1.4
     },
     "streamInList":{
       "enabled": "YES",
